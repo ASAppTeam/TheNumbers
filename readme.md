@@ -1,7 +1,5 @@
-##SQL Date functions##
+##The Numbers##
 
-A couple date functions written for SQL-Server (although it could be easily
+Our first application that was controled in GitHub.
 
-ported to other platforms).
-
-###Holiday_list()###
+###Tell us what you think...!###
